@@ -1,0 +1,5 @@
+// compilare
+javac main.java classe.java // --> vengono creati i 2 file main.class e classe.class
+
+// eseguire
+java main
